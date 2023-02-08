@@ -1,4 +1,3 @@
-// @heroicons
 import Link from "next/link";
 
 const features = [
@@ -20,11 +19,11 @@ function Features() {
             key={feature.name.split(" ").join("-")}
           >
             <div>
-              <Icon
-                className="block w-8 h-8"
-                style={{ height: 24, width: 24 }}
-                aria-hidden="true"
-              />
+              {/*<Icon*/}
+              {/*  className="block w-8 h-8"*/}
+              {/*  style={{ height: 24, width: 24 }}*/}
+              {/*  aria-hidden="true"*/}
+              {/*/>*/}
             </div>
             <div>
               <div className="my-0 font-small dark:text-white">

@@ -5,8 +5,8 @@ const theme = {
   unstable_staticImage: true,
   floatTOC: true,
   font: false,
-  github: "https://github.com/assaf970se",
-  projectLink: "https://github.com/assaf970se",
+  github: "https://github.com/assaf970se/the-boys-workshop",
+  projectLink: "https://github.com/assaf970se/the-boys-workshop",
   logo: () => (
     <>
       <img
